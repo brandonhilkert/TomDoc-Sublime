@@ -25,6 +25,8 @@ Usage
   <th>Description</th></tr>
   <tr><td>tom</td>
   <td>Creates TomDoc skeleton text.</td></tr>
+  <tr><td>tomh</td>
+  <td>Creates TomDoc skeleton for hash argument in method.</td></tr>
 </table>
 
 
