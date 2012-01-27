@@ -1,4 +1,4 @@
 <snippet>
   <content><![CDATA[:${0:color}  - ${1:The String color to restrict by} (${2:optional}).]]></content>
-  <tabTrigger>tom</tabTrigger>
+  <tabTrigger>tomh</tabTrigger>
 </snippet>
